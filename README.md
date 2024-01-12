@@ -7,7 +7,7 @@
 
 İş görüşmesi öncesi değerlendirmeye alabilmemiz için sizden bir takım basit çalışmalar yapmanızı istiyoruz. İş görüşmesi sırasında çalışma adımları üzerinde yüzeysel olarak konuşacağız.
 
-❗❗ Çalışma sırasında oluşturduğunuz `kaynak kodları (yaml,sh,config files vs)` ve `hazırlık çalışma dökümantasyonu (README.md)` dosyasını bir Github reposuna yükleyip, ePosta ile bizim erişmemizi sağlayın.
+❗❗ Çalışma sırasında oluşturduğunuz `kaynak kodları (yaml,sh,config files vs)` ve `hazırlık çalışma dökümantasyonu (README.md)` dosyasını bir Github reposuna yükleyip, ePosta ile reponuzun bağlantısını paylaşın.
 
 ```yaml
 to: sgezer@erkutsavunma.com
@@ -78,3 +78,6 @@ cc: mkarabacak@erkutsavunma.com
    3. http://IP_ADRESINIZ:32222  üzerinden Wordpress e giriş yapabileyim.
    4. Wordpress loglarını ekrana bastırın.
    5. Kubernetes Dashboard ı aktif edip, pod durumlarını gösterin. (?) k9s/Lens ile de gösterebilirsiniz.
+
+
+Esen kalın ...
