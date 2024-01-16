@@ -7,7 +7,13 @@
 
 İş görüşmesi öncesi değerlendirmeye alabilmemiz için sizden bir takım basit çalışmalar yapmanızı istiyoruz. İş görüşmesi sırasında çalışma adımları üzerinde yüzeysel olarak konuşacağız.
 
-❗❗ Çalışma sırasında oluşturduğunuz `kaynak kodları (yaml,sh,config files vs), çalıştırdığınız komutları`  `hazırlık çalışma dökümantasyonu (README.md)` dosyasına yazıp bir Github reposuna yükleyip, ePosta ile reponuzun bağlantısını paylaşın.
+❗❗ Çalışma sırasında kullandığınız `komutları, scriptleri, konfigürasyon dosyalarını` ve `bir bakkalın sadece kodları kopyalayıp çalıştırabilmesini sağlayacak şekilde dökümantasyon (README.md)` dosyasını hazırlayıp, kendinize ait bir git reposuna yükleyip, ePosta ile repo bağlantınızı bizimle paylaşın.
+
+Örnek: [ÖRNEK HAZIRLIK ÇALIŞMASI](./ORNEK-calisma/)
+
+❗❗ Oluşturmuş olduğunuz sanal makineleri silmeyiniz. Mülakat sırasında çalıştırmanızı isteyeceğiz.
+
+❗❗ İşlemlerinizi terminal/shell (kara ekran) üzerinde Linux komutları kullanarak yapmanızı istiyoruz. Bu sebeple dökümantasyonunuzda ekran görüntüsü yerine Linux komutları görmeyi tercih ederiz.
 
 ```yaml
 to: sgezer@erkutsavunma.com
